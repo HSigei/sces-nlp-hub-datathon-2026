@@ -82,7 +82,7 @@ Limitations:
 
 ## Presentation and demo video
 
-- Presentation/demo video URL (REQUIRED): being exported; the link will be added to this README in this pull request before the deadline.
+- Presentation/demo video URL (REQUIRED): https://team19-video.pages.dev
 - Optional hosted app URL: none
 
 ## Required materials
